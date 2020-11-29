@@ -1,0 +1,25 @@
+
+
+
+.navbar{
+    font-family: 'Nunito', sans-serif;
+    color: white;
+}
+
+.navbar a{
+    text-decoration: none;
+    color: white;
+}
+
+.card{
+    height: 100%;
+    margin-top: 55px;
+    width: 250px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: none;
+    overflow-x: hidden;
+    padding-top: 20px;
+}
